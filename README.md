@@ -39,7 +39,7 @@ At current, this application has the following features;
 * Remember, distracted driving is DANGEROUS and ILLEGAL. This feature is ment to be used while the vehicle is stationary, in park or to be utilized by passengers of the vehicle. Do not use this feature if you are activly opperating a vehicle
 
 
-#Upcoming Additions
+# Upcoming Additions
 >
 > Lyric Song Searching
 >
