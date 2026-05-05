@@ -16,13 +16,13 @@ The main function of this application is to make a personal streaming service cl
 
 At current, this application has the following features;
 >
-> Music lookup and Steaming
+> Music lookup and Streaming
 > 
 > Podcast Lookup and Streaming
 > 
 > Full Offline Downloading for both Music and Podcasts
 > 
-> Artist Pages with full Discography (Searchable and it builds them based on the artists currently in you library
+> Artist Pages with full Discography (Artists are Searchable, and it builds them based on the artists currently in you library
 > 
 > Playlist Creation
 > 
@@ -34,11 +34,16 @@ At current, this application has the following features;
 >
 > Android Auto (In a WIP state, has support for Lyrics on the vehicles UI*)
 >
-> 
-
-
-
-
-
+> WebApp and Android App [IOS app is planned but will NOT be started until both the Server / WebApp and Android App are feature complete]
 
 * Remember, distracted driving is DANGEROUS and ILLEGAL. This feature is ment to be used while the vehicle is stationary, in park or to be utilized by passengers of the vehicle. Do not use this feature if you are activly opperating a vehicle
+
+
+#Upcoming Additions
+>
+> Lyric Song Searching
+>
+> Audio Book Lookup, Streaming and Offline downloading
+>
+> Automated update list of Lyrics for songs in library that may not have Lyrics attached at time of library creation
+>
